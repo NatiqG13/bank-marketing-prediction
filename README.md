@@ -22,11 +22,12 @@ Metrics used:
 - F1-score
 
 
-Sample Results:
+ Sample Results
 
-Model                Precision (Class 1)  | Recall (Class 1)  | F1-Score (Class 1) |
-Logistic Regression  |   0.42                |  0.83              |     0.56
-Random Forest        |  0.30                 |  0.75              | 0.43
+| Model                | Precision (Class 1) | Recall (Class 1) | F1-Score (Class 1) |
+|---------------------|---------------------|------------------|--------------------|
+| Logistic Regression | 0.42                | 0.83             | 0.56               |
+| Random Forest       | 0.30                | 0.75             | 0.43               |
 
 Logistic Regression performed better.
 
